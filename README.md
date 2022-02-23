@@ -3,7 +3,9 @@
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Clone this project
+```sh
 git clone https://github.com/fabricioesmerio/gantt-vue.git
+```
 
 ## Project Setup
 
